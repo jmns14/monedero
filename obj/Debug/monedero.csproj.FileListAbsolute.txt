@@ -1,0 +1,7 @@
+C:\Users\SALA DE SISTEMAS\source\repos\monedero\monedero\bin\Debug\monedero.exe.config
+C:\Users\SALA DE SISTEMAS\source\repos\monedero\monedero\bin\Debug\monedero.exe
+C:\Users\SALA DE SISTEMAS\source\repos\monedero\monedero\bin\Debug\monedero.pdb
+C:\Users\SALA DE SISTEMAS\source\repos\monedero\monedero\obj\Debug\monedero.csprojAssemblyReference.cache
+C:\Users\SALA DE SISTEMAS\source\repos\monedero\monedero\obj\Debug\monedero.csproj.CoreCompileInputs.cache
+C:\Users\SALA DE SISTEMAS\source\repos\monedero\monedero\obj\Debug\monedero.exe
+C:\Users\SALA DE SISTEMAS\source\repos\monedero\monedero\obj\Debug\monedero.pdb
