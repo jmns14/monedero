@@ -1,2 +1,2 @@
 # Monedero
-Juan Carlos Meneses Acosta
+Monedero en C#
